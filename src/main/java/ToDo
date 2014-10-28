@@ -1,0 +1,22 @@
+* Reverse a linked list
+* Difference between ArrayList, Array, Hashmap, Hashtable
+* TCP
+* UDP
+* TRIE implement
+* Arrange the array so that positive and negative number are arranged alternatively. Preserve the order.
+* Linked list is palindrome or not.
+* Binary Tree in Spiral Form.
+* Reverse the Alternate Kth Node in Linked List.
+* What are virtual functions
+* Create Singleton Class
+* Write Consumer Producer problem in java.
+* Implement a data structure
+* we have website having several web-pages. And also there are lot many user who are accessing the web-site.
+  say user 1 has access pattern : x->y->z->a->b->c->d->e->f
+  user 2 has access pattern : z->a->b->c->d
+  user 3 has access pattern : y->z->a->b->c->d
+  user 4 has access pattern : a->b->c->d
+  and list goes on for lot many users which are finite and numbered.
+  Now the question is we have to determine the top 3 most occurring k-Page-sequence.
+  for the above example result will be : (k=3) a->b->c , b->c->d , z->a->b.
+* Euler Circuit in Directed Graph. / http://www.geeksforgeeks.org/euler-circuit-directed-graph/
